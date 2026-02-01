@@ -4,7 +4,7 @@ AI Safety Portfolio including pipeline diagrams, harness eval, finding reports
 
 AI Safety Engineer | LLM Evaluation | Adversarial Testing | Responsible AI
 
-I design reproducible evaluation frameworks and safety pipelines for large language models, focused on robustness, policy adherence, and failure-mode analysis, pipelines and Red Teaming.
+I design reproducible evaluation frameworks and safety pipelines for large language models, focused on robustness, policy adherence, and failure-mode analysis, and Red Teaming.
 
 ## Featured Work
 🔹 LLM Safety Evaluation Harness  
