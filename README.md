@@ -25,4 +25,4 @@ Python • LLM evaluation • adversarial testing • safety pipelines • struc
 
 ## Contact
 cullenemathews@gmail.com
-LinkedIn: https://www.linkedin.com/in/cullen-mathews-b8753449/
+LinkedIn: https://www.linkedin.com/in/cullen-mathews-b7b2722a0/
